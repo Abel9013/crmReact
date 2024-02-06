@@ -1,0 +1,215 @@
+{
+  "clientes": [
+    {
+      "nombre": "Lorena",
+      "empresa": "Empresa 1",
+      "email": "cliente1@ejemplo.com",
+      "plan": "oro",
+      "telefono": "555-1234-01",
+      "notas": "Lorena solicita una web de su emprendimiento ",
+      "id": 1
+    },
+    {
+      "nombre": "Elisa",
+      "empresa": "Empresa 2",
+      "email": "cliente2@ejemplo.com",
+      "plan": "plata",
+      "telefono": "555-1234-02",
+      "notas": "Elisa necesita una web educacional ",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Cliente 3",
+      "telefono": "555-1234-03",
+      "email": "cliente3@ejemplo.com",
+      "empresa": "Empresa 3",
+      "plan": "bronce"
+    },
+    {
+      "id": 4,
+      "nombre": "Cliente 4",
+      "telefono": "555-1234-04",
+      "email": "cliente4@ejemplo.com",
+      "empresa": "Empresa 4",
+      "plan": "oro"
+    },
+    {
+      "id": 5,
+      "nombre": "Cliente 5",
+      "telefono": "555-1234-05",
+      "email": "cliente5@ejemplo.com",
+      "empresa": "Empresa 5",
+      "plan": "plata"
+    },
+    {
+      "id": 6,
+      "nombre": "Cliente 6",
+      "telefono": "555-1234-06",
+      "email": "cliente6@ejemplo.com",
+      "empresa": "Empresa 6",
+      "plan": "bronce"
+    },
+    {
+      "id": 7,
+      "nombre": "Cliente 7",
+      "telefono": "555-1234-07",
+      "email": "cliente7@ejemplo.com",
+      "empresa": "Empresa 7",
+      "plan": "oro"
+    },
+    {
+      "id": 8,
+      "nombre": "Cliente 8",
+      "telefono": "555-1234-08",
+      "email": "cliente8@ejemplo.com",
+      "empresa": "Empresa 8",
+      "plan": "plata"
+    },
+    {
+      "id": 9,
+      "nombre": "Cliente 9",
+      "telefono": "555-1234-09",
+      "email": "cliente9@ejemplo.com",
+      "empresa": "Empresa 9",
+      "plan": "bronce"
+    },
+    {
+      "id": 10,
+      "nombre": "Cliente 10",
+      "telefono": "555-1234-10",
+      "email": "cliente10@ejemplo.com",
+      "empresa": "Empresa 10",
+      "plan": "oro"
+    },
+    {
+      "id": 11,
+      "nombre": "Cliente 11",
+      "telefono": "555-1234-11",
+      "email": "cliente11@ejemplo.com",
+      "empresa": "Empresa 11",
+      "plan": "plata"
+    },
+    {
+      "id": 12,
+      "nombre": "Cliente 12",
+      "telefono": "555-1234-12",
+      "email": "cliente12@ejemplo.com",
+      "empresa": "Empresa 12",
+      "plan": "bronce"
+    },
+    {
+      "id": 13,
+      "nombre": "Cliente 13",
+      "telefono": "555-1234-13",
+      "email": "cliente13@ejemplo.com",
+      "empresa": "Empresa 13",
+      "plan": "oro"
+    },
+    {
+      "id": 14,
+      "nombre": "Cliente 14",
+      "telefono": "555-1234-14",
+      "email": "cliente14@ejemplo.com",
+      "empresa": "Empresa 14",
+      "plan": "plata"
+    },
+    {
+      "id": 15,
+      "nombre": "Cliente 15",
+      "telefono": "555-1234-15",
+      "email": "cliente15@ejemplo.com",
+      "empresa": "Empresa 15",
+      "plan": "bronce"
+    },
+    {
+      "id": 16,
+      "nombre": "Cliente 16",
+      "telefono": "555-1234-16",
+      "email": "cliente16@ejemplo.com",
+      "empresa": "Empresa 16",
+      "plan": "oro"
+    },
+    {
+      "id": 17,
+      "nombre": "Cliente 17",
+      "telefono": "555-1234-17",
+      "email": "cliente17@ejemplo.com",
+      "empresa": "Empresa 17",
+      "plan": "plata"
+    },
+    {
+      "id": 18,
+      "nombre": "Cliente 18",
+      "telefono": "555-1234-18",
+      "email": "cliente18@ejemplo.com",
+      "empresa": "Empresa 18",
+      "plan": "bronce"
+    },
+    {
+      "id": 19,
+      "nombre": "Cliente 19",
+      "telefono": "555-1234-19",
+      "email": "cliente19@ejemplo.com",
+      "empresa": "Empresa 19",
+      "plan": "oro"
+    },
+    {
+      "id": 20,
+      "nombre": "Cliente 20",
+      "telefono": "555-1234-20",
+      "email": "cliente20@ejemplo.com",
+      "empresa": "Empresa 20",
+      "plan": "plata"
+    },
+    {
+      "id": 21,
+      "nombre": "Cliente 21",
+      "telefono": "555-1234-21",
+      "email": "cliente21@ejemplo.com",
+      "empresa": "Empresa 21",
+      "plan": "bronce"
+    },
+    {
+      "id": 22,
+      "nombre": "Cliente 22",
+      "telefono": "555-1234-22",
+      "email": "cliente22@ejemplo.com",
+      "empresa": "Empresa 22",
+      "plan": "oro"
+    },
+    {
+      "id": 23,
+      "nombre": "Cliente 23",
+      "telefono": "555-1234-23",
+      "email": "cliente23@ejemplo.com",
+      "empresa": "Empresa 23",
+      "plan": "plata"
+    },
+    {
+      "id": 24,
+      "nombre": "Cliente 24",
+      "telefono": "555-1234-24",
+      "email": "cliente24@ejemplo.com",
+      "empresa": "Empresa 24",
+      "plan": "bronce"
+    },
+    {
+      "id": 25,
+      "nombre": "Cliente 25",
+      "telefono": "555-1234-25",
+      "email": "cliente25@ejemplo.com",
+      "empresa": "Empresa 25",
+      "plan": "oro"
+    },
+    {
+      "nombre": "Abel",
+      "empresa": "codeandoAndo",
+      "email": "90abel.avr@gmail.com",
+      "plan": "oro",
+      "telefono": "02634356144",
+      "notas": "Excelente persona, programador muy responsable",
+      "id": 26
+    }
+  ]
+}
