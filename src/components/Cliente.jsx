@@ -2,7 +2,9 @@ import { useNavigate, Form, redirect }  from "react-router-dom"
 import { eliminarCliente } from "../data/clientes"
 
 export async function action ({params}) {
-  eliminarCliente(params.id)
+
+    await eliminarCliente(params.clienteId)
+
   return redirect("/") 
 }
 
@@ -31,6 +33,12 @@ const Cliente = ({cliente}) => {
             <Form 
                 method="post"
                 action={`/clientes/${id}/eliminar`}
+                onSubmit={(e)=>{
+                  if(!confirm("Eliminar cliente?")){
+                    e.preventDefault()
+                  }
+                  
+                }}
             >
               <button
                   type='submit'

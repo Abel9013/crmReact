@@ -201,15 +201,6 @@
       "email": "cliente25@ejemplo.com",
       "empresa": "Empresa 25",
       "plan": "oro"
-    },
-    {
-      "nombre": "Abel",
-      "empresa": "codeandoAndo",
-      "email": "90abel.avr@gmail.com",
-      "plan": "oro",
-      "telefono": "02634356144",
-      "notas": "Excelente persona, programador muy responsable",
-      "id": 26
     }
   ]
 }
