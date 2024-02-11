@@ -11,7 +11,7 @@ export async function action ({params}) {
 const Cliente = ({cliente}) => {
 
     const navigate = useNavigate()
-    const {nombre, empresa , email, id} = cliente
+    const {nombre, empresa , email, id, plan} = cliente
 
   return (
     <>
@@ -22,6 +22,9 @@ const Cliente = ({cliente}) => {
         </td>
         <td className='p-6'>
             <p className="text-gray-600"><span className='text-gray-800 uppercase font-bold'>Email: </span>{email}</p>
+        </td>
+        <td className='p-6'>
+            <p className="text-gray-600"><span className='text-gray-800 uppercase font-bold'>{plan}</span></p>
         </td>
         <td className='p-6 flex gap-3'>
             <button
